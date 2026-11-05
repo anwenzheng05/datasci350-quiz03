@@ -206,5 +206,5 @@ git add .
 git commit -m "Add AWS analysis results"
 git push
 
-BONUS
-
+REFERENCE:
+I used OpenAI Codex to troubleshoot code and command-line steps, and explain errors. I reviewed the instructions and the wrote commands myself, using the reference to lecture materials.
